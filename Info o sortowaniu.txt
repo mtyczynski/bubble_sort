@@ -1,0 +1,1 @@
+wartownik ma sens jedynie wtedy, gdy tablica jest ju¿ czêœciowo uporz¹dkowana i nie wymaga du¿ej iloœci zamiany, w przeciwnym wypadku wartownik zwalnia wykonanie sortowania, bo w ka¿dym obrocie pêtli sprawdza siê jego warunek.
